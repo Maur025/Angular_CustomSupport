@@ -1,33 +1,37 @@
-#Project Customer Support, template by Modernize
+# Project Customer Support, template by Modernize
+
 <br>
-##Información del Proyecto
+
+## Información del Proyecto
+
 <br>
 
 - Nombre: modernize template
   <br>
-  Versión: 0.0.0
+- Versión: 0.0.0
   <br>
-  Angular: 17
+- Angular: 17
   <br>
-  Node.js: 18.18.0
+- Node.js: 18.18.0
   <br>
   <br>
 
-Scripts
-<br>
+## Scripts
+
 <br>
 
 - ng: Comando para Angular.
   <br>
-  start: Inicia el servidor de desarrollo.
+- start: Inicia el servidor de desarrollo.
   <br>
-  build: Compila el proyecto.
+- build: Compila el proyecto.
   <br>
-  watch: Compila y observa cambios en el modo desarrollo.
+- watch: Compila y observa cambios en el modo desarrollo.
   <br>
   <br>
 
-Instalación de Dependencias:
+### Instalación de Dependencias:
+
 <br>
 <br>
 
@@ -35,15 +39,16 @@ Instalación de Dependencias:
   <br>
   <br>
 
-Iniciar el Servidor de Desarrollo:
-<br>
+### Iniciar el Servidor de Desarrollo:
+
 <br>
 
 - "npm start" o "yarn start"
   <br>
   <br>
 
-Compilar el Proyecto:
+### Compilar el Proyecto:
+
 <br>
 <br>
 
@@ -51,8 +56,8 @@ Compilar el Proyecto:
   <br>
   <br>
 
-##Notas Importantes
-<br>
+## Notas Importantes
+
 <br>
 Asegúrate de tener Node.js instalado en tu máquina.
 <br>
