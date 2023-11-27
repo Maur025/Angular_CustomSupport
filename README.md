@@ -1,69 +1,51 @@
 Proyecto Modernize
+<br>
 Información del Proyecto
-Nombre: modernize
+<br>
+Nombre: modernize template
+<br>
 Versión: 0.0.0
+<br>
 Angular: 17
+<br>
 Node.js: 18.18.0
+<br>
+<br>
 Scripts
+<br>
+<br>
 ng: Comando para Angular.
+<br>
 start: Inicia el servidor de desarrollo.
+<br>
 build: Compila el proyecto.
+<br>
 watch: Compila y observa cambios en el modo desarrollo.
-test: Ejecuta pruebas.
-Dependencias
-Producción
-@angular/animations: ^15.0.0
-@angular/cdk: ^15.0.4
-@angular/common: ^15.0.0
-@angular/compiler: ^15.0.0
-@angular/core: ^15.0.0
-@angular/forms: ^15.0.0
-@angular/material: ^15.0.4
-@angular/platform-browser: ^15.0.0
-@angular/platform-browser-dynamic: ^15.0.0
-@angular/router: ^15.0.0
-angular-tabler-icons: ^2.7.0
-apexcharts: ^3.35.3
-ng-apexcharts: 1.7.1
-rxjs: ~7.5.0
-sass: ^1.57.1
-tslib: ^2.3.0
-zone.js: ~0.12.0
-Desarrollo
-@angular-devkit/build-angular: ^15.0.5
-@angular/cli: ~15.0.5
-@angular/compiler-cli: ^15.0.0
-@types/date-fns: ^2.6.0
-@types/jasmine: ~4.3.0
-jasmine-core: ~4.5.0
-karma: ~6.4.0
-karma-chrome-launcher: ~3.1.0
-karma-coverage: ~2.2.0
-karma-jasmine: ~5.1.0
-karma-jasmine-html-reporter: ~2.0.0
-typescript: ~4.8.2
-Uso del Proyecto
+<br>
+<br>
 Instalación de Dependencias:
-
-bash
-Copy code
-npm install
+<br>
+<br>
+"npm install" o "yarn install"
+<br>
+<br>
 Iniciar el Servidor de Desarrollo:
-
-bash
-Copy code
-npm start
+<br>
+<br>
+"npm start" o "yarn start"
+<br>
+<br>
 Compilar el Proyecto:
-
-bash
-Copy code
-npm run build
-Ejecutar Pruebas:
-
-bash
-Copy code
-npm test
+<br>
+<br>
+"npm run build" o "yarn buil"
+<br>
+<br>
 Notas Importantes
+<br>
+<br>
 Asegúrate de tener Node.js instalado en tu máquina.
+<br>
 Se recomienda utilizar las versiones específicas de Node.js y Angular listadas en el archivo package.json.
+<br>
 Para más detalles sobre comandos y configuración, consulta la documentación de Angular y Node.js.
